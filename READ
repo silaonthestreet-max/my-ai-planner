@@ -1,0 +1,84 @@
+# My AI Planner
+
+A personal AI‑assisted productivity web app built with Next.js, TypeScript, Tailwind, Supabase, and OpenAI.
+
+## Features
+- Daily AI priorities
+- Start 90‑minute focus sessions
+- Mid‑session refocus prompts
+- Evening reflections
+- Supabase database for sessions + AI responses
+
+## Setup
+1. Copy all files into a GitHub repo.
+2. Create a Supabase project.
+3. Add environment variables in Vercel:
+   - NEXT_PUBLIC_SUPABASE_URL
+   - NEXT_PUBLIC_SUPABASE_ANON_KEY
+   - OPENAI_API_KEY
+4. Deploy on Vercel.
+
+## Dev
+# My AI Planner
+
+A personal AI‑assisted productivity web app built with Next.js, TypeScript, Tailwind, Supabase, and OpenAI.
+
+## Features
+- Daily AI priorities
+- Start 90‑minute focus sessions
+- Mid‑session refocus prompts
+- Evening reflections
+- Supabase database for sessions + AI responses
+
+## Setup
+1. Copy all files into a GitHub repo.
+2. Create a Supabase project.
+3. Add environment variables in Vercel:
+   - NEXT_PUBLIC_SUPABASE_URL
+   - NEXT_PUBLIC_SUPABASE_ANON_KEY
+   - OPENAI_API_KEY
+4. Deploy on Vercel.
+
+## Dev
+# My AI Planner
+
+A personal AI‑assisted productivity web app built with Next.js, TypeScript, Tailwind, Supabase, and OpenAI.
+
+## Features
+- Daily AI priorities
+- Start 90‑minute focus sessions
+- Mid‑session refocus prompts
+- Evening reflections
+- Supabase database for sessions + AI responses
+
+## Setup
+1. Copy all files into a GitHub repo.
+2. Create a Supabase project.
+3. Add environment variables in Vercel:
+   - NEXT_PUBLIC_SUPABASE_URL
+   - NEXT_PUBLIC_SUPABASE_ANON_KEY
+   - OPENAI_API_KEY
+4. Deploy on Vercel.
+
+## Dev
+# My AI Planner
+
+A personal AI‑assisted productivity web app built with Next.js, TypeScript, Tailwind, Supabase, and OpenAI.
+
+## Features
+- Daily AI priorities
+- Start 90‑minute focus sessions
+- Mid‑session refocus prompts
+- Evening reflections
+- Supabase database for sessions + AI responses
+
+## Setup
+1. Copy all files into a GitHub repo.
+2. Create a Supabase project.
+3. Add environment variables in Vercel:
+   - NEXT_PUBLIC_SUPABASE_URL
+   - NEXT_PUBLIC_SUPABASE_ANON_KEY
+   - OPENAI_API_KEY
+4. Deploy on Vercel.
+
+## Dev
